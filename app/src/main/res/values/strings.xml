@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignmetn5</string>
+    <string name="title_activity_list_view">list_view</string>
+    <string name="title_activity_list_layout_entry">list_layout_entry</string>
+</resources>
